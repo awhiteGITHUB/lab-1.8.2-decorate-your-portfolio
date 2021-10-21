@@ -1,0 +1,23 @@
+
+body {
+    background-color: purple;
+    cursor: pointer;
+}
+img { 
+    border-radius: 90px;
+    border-style: ridge;
+    border-color: gold;
+}
+
+h1,h2,h3 {
+    color:gold
+    
+}
+p {font-size: large;
+    color: white;
+}
+
+div {
+    text-align: center;
+    color: white;
+}
